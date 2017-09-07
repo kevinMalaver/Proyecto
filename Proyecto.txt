@@ -1,0 +1,7 @@
+Integrantes:
+Kevin Andrés Malaver Cobos-20171020001
+Proyecto:
+juego de un personaje el cual se trazlada por un mapa en busca de unas
+de pistas que le permitan descubrir el oscuro secreto que le dejo su padre
+poco a poco el personaje podra avancar por distitos mapas segun avanze el 
+juego
